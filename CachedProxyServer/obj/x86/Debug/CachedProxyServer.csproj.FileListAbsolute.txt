@@ -1,0 +1,9 @@
+F:\Учёба\9-ый семестр\ПСМП\Курсач\CachedProxyServer\CachedProxyServer\bin\Debug\CachedProxyServer.exe
+F:\Учёба\9-ый семестр\ПСМП\Курсач\CachedProxyServer\CachedProxyServer\bin\Debug\CachedProxyServer.pdb
+F:\Учёба\9-ый семестр\ПСМП\Курсач\CachedProxyServer\CachedProxyServer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Учёба\9-ый семестр\ПСМП\Курсач\CachedProxyServer\CachedProxyServer\obj\x86\Debug\CachedProxyServer.Form1.resources
+F:\Учёба\9-ый семестр\ПСМП\Курсач\CachedProxyServer\CachedProxyServer\obj\x86\Debug\CachedProxyServer.Properties.Resources.resources
+F:\Учёба\9-ый семестр\ПСМП\Курсач\CachedProxyServer\CachedProxyServer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Учёба\9-ый семестр\ПСМП\Курсач\CachedProxyServer\CachedProxyServer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Учёба\9-ый семестр\ПСМП\Курсач\CachedProxyServer\CachedProxyServer\obj\x86\Debug\CachedProxyServer.exe
+F:\Учёба\9-ый семестр\ПСМП\Курсач\CachedProxyServer\CachedProxyServer\obj\x86\Debug\CachedProxyServer.pdb
